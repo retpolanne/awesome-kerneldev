@@ -45,6 +45,11 @@ An extensive list of resources for people who want to start contributing to the 
 
 - [Majordomo mailing lists](http://vger.kernel.org/vger-lists.html#kernel-janitors)
 
+## Tools
+
+- [cscope](https://linux-kernel-labs.github.io/refs/pull/165/merge/labs/introduction.html#cscope)
+- [kworkflow](https://github.com/kworkflow/kworkflow)
+
 ## Miscelaneous
 
 - [Setup: Linux host, QEMU vm, arm64 kernel](https://android.googlesource.com/platform/external/syzkaller/+/HEAD/docs/linux/setup_linux-host_qemu-vm_arm64-kernel.md)
