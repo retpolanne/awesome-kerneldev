@@ -12,6 +12,10 @@ An extensive list of resources for people who want to start contributing to the 
 - [Kernel Newbies](https://kernelnewbies.org)
 - [Linux Foundation Training on Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
 
+## Patches
+
+- [Patchwork](https://patchwork.kernel.org)
+
 ## Articles and decks
 
 ### Setting up your environment
@@ -49,6 +53,7 @@ An extensive list of resources for people who want to start contributing to the 
 
 - [cscope](https://linux-kernel-labs.github.io/refs/pull/165/merge/labs/introduction.html#cscope)
 - [kworkflow](https://github.com/kworkflow/kworkflow)
+- [pwclient](https://github.com/getpatchwork/pwclient)
 
 ## Miscelaneous
 
