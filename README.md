@@ -54,6 +54,7 @@ An extensive list of resources for people who want to start contributing to the 
 - [cscope](https://linux-kernel-labs.github.io/refs/pull/165/merge/labs/introduction.html#cscope)
 - [kworkflow](https://github.com/kworkflow/kworkflow)
 - [pwclient](https://github.com/getpatchwork/pwclient)
+- [bootlin Elixir Cross Referencer](https://elixir.bootlin.com/linux/latest/source)
 
 ## Miscelaneous
 
