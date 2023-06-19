@@ -28,6 +28,11 @@ An extensive list of resources for people who want to start contributing to the 
 
 - [On contributing to the kernel](https://crosscat.me/on-contributing-to-the-kernel/) - by @isinyaaa
 - [Intro to Kernel Hacking - finding things to work on.](http://tobin.cc/kernel-dev-finding-work.pdf)
+- [Submitting Your First Patch to the Linux Kernel and Responding to Feedback](http://nickdesaulniers.github.io/blog/2017/05/16/submitting-your-first-patch-to-the-linux-kernel-and-responding-to-feedback/)
+
+### Debugging
+
+- [How to enable and tune Dynamic Debugging for xHCI](https://burzalodowa.wordpress.com/2013/09/18/how-to-enable-and-tune-dynamic-debugging-for-xhci/)
 
 ## Books
 
